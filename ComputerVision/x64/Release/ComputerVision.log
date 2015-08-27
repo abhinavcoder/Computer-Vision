@@ -1,0 +1,11 @@
+﻿Build started 12/2/2014 11:34:12 PM.
+     1>Project "C:\Users\Abhinav\Documents\Visual Studio 2012\Projects\ComputerVision\ComputerVision\ComputerVision.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\ComputerVision.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt ComputerVision.cpp
+         ComputerVision.cpp
+     1>ComputerVision.cpp(3): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+     1>Done Building Project "C:\Users\Abhinav\Documents\Visual Studio 2012\Projects\ComputerVision\ComputerVision\ComputerVision.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.15
